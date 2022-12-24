@@ -7,5 +7,12 @@
             "photo_url": "https://pbs.twimg.com/profile_images/774944118262919169/W58otMNV_400x400.jpg",
             "balance": 1500
         }
+        {
+            "id": 2,
+            "name": "Liza",
+            "sirname": "Vinnik",
+            "photo_url": "https://pbs.twimg.com/profile_images/774944118262919169/W58otMNV_400x400.jpg",
+            "balance": 1500
+        }
     ]
 }
