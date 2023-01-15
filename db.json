@@ -7,5 +7,55 @@
             "photo_url": "https://pbs.twimg.com/profile_images/774944118262919169/W58otMNV_400x400.jpg",
             "balance": 1500
         }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "Led displey",
+            "description": "test description",
+            "prise": 400,
+            "autor_id": 1,
+            "photo_url": "https://pbs.twimg.com/profile_images/774944118262919169/W58otMNV_400x400.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Led displey 2",
+            "description": "test description 2",
+            "prise": 500,
+            "autor_id": 2,
+            "photo_url": "https://pbs.twimg.com/profile_images/774944118262919169/W58otMNV_400x400.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Led displey 3",
+            "description": "test description 3",
+            "prise": 150,
+            "autor_id": 3,
+            "photo_url": "https://pbs.twimg.com/profile_images/774944118262919169/W58otMNV_400x400.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Led displey 4",
+            "description": "test description 4",
+            "prise": 50,
+            "autor_id": 4,
+            "photo_url": "https://pbs.twimg.com/profile_images/774944118262919169/W58otMNV_400x400.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Led displey 5",
+            "description": "test description 5",
+            "prise": 100,
+            "autor_id": 5,
+            "photo_url": "https://pbs.twimg.com/profile_images/774944118262919169/W58otMNV_400x400.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Led displey 6",
+            "description": "test description 6",
+            "prise": 400,
+            "autor_id": 6,
+            "photo_url": "https://pbs.twimg.com/profile_images/774944118262919169/W58otMNV_400x400.jpg"
+        }
     ]
 }
