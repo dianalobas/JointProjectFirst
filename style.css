@@ -4,7 +4,7 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 main, header {
-    margin: 5vh 10vw;
+    margin: 10vh 10vw;
 }
 header {
     display: flex;
