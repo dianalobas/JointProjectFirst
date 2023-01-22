@@ -1,30 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Robocode Marketplace</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
     <header>
-        <h1>Robocode Marketplace</h1>
-        <div id="cart">
-            <button id="cart-button" onclick="openCart()">
-                <img src="img/cart.png" alt="cart">
-            </button>
-            <div id="cart-products" class="hide">
-                Cart is empty
-            </div>
+      <h1>Robocode Marketplace</h1>
+      <div id="cart">
+        <button id="cart-button" onclick="openCart()">
+          <img src="img/cart.png" alt="cart" />
+        </button>
+        <div id="cart-products" class="hide">
+          Cart is empty
         </div>
+      </div>
     </header>
   <main>
         <div id="products-grid">
             <div class="product">
             <h2 class="product-name">LED display</h2>
             <img class="product-photo" src="https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/led.jpeg" alt="LED display">
-            <p class="product-price"><b>Price: </b>92$</p>
+            <p class="product-price"><b>Price:</b>92$</p>
             <p class="product-description"><b>Description: </b>Can display 2-lines X 16-characters. Operate with 5V DC.</p>
             <a href="#">Seller profile</a>
             <button onclick="addProductToCart(1)">Buy</button>
@@ -65,6 +65,6 @@
             <button onclick="addProductToCart(6)">Buy</button>
         </div></div>
     </main>
-</body>
-<script src="script.js" defer></script>
+  </body>
+  <script src="script.js" defer></script>
 </html>
