@@ -32,3 +32,7 @@ header {
     margin: 0.5rem 0;
     background-color: #ffffff;
 }
+#cart-products button{
+    border: 1px solid #000;
+    margin: 0.5rem 0;
+}
