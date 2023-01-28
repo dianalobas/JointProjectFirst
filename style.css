@@ -17,8 +17,9 @@ header {
 }
 
 .product {
-    background-color: rgba(169, 21, 164, 0.5);
+    background-color: rgba(96, 13, 143, 0.596);
     padding: 1rem;
+    margin: 1rem;
     border-radius: 1rem;
     color: #ffffff;
     display: flex;
@@ -76,7 +77,7 @@ button {
 }
 
 #cart-button:hover {
-    background-color: rgb(170, 170, 255);
+    background-color: rgba(95, 13, 143, 0.395);
 }
 
 #cart-button.active {
