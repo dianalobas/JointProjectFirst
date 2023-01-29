@@ -10,7 +10,7 @@ header {
     display: flex;
     justify-content: space-between;
 }
-#products_grid{
+#products-grid{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 1rem;
