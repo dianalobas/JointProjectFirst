@@ -20,7 +20,7 @@ xhr.onload = function (){
         <a href='userProfile.html?id=${p.autor_id}'>Seller profile</a>
         <button onclick="addProductToCart(${p.id})">Buy</button>
         `;
-        productsGrid.append(p.pElem);
+        productsGrid.append(pElem);
     });
 }
 
